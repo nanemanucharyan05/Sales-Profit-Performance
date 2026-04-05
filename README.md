@@ -1,12 +1,12 @@
-# 📊 Tableau Sales Dashboard Project
+# Tableau Sales Dashboard Project
 
-## 📌 Project Overview
+##  Project Overview
 This project is an interactive Tableau dashboard built to analyze sales performance, profit trends, and key business KPIs using a retail dataset.  
 The dashboard helps identify trends over time, compare performance metrics, and support data-driven decision making.
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 The dataset contains retail transaction data with the following key columns:
 
 - Order Date
@@ -18,7 +18,7 @@ The dataset contains retail transaction data with the following key columns:
 - Region
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Before building the dashboard, the dataset was cleaned and prepared:
 
@@ -43,26 +43,26 @@ Before building the dashboard, the dataset was cleaned and prepared:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The Tableau dashboard includes:
 
-### 🧾 KPI Section (Top Panel)
+###  KPI Section (Top Panel)
 - Total Sales → `SUM(Sales)`
 - Total Profit → `SUM(Profit)`
 - Percentage of Profit Margin 
 
 ---
 
-### 📈 Trend Analysis (Middle Panel)
+### Trend Analysis (Middle Panel)
 
-- 📉 Sales Trend over time
-- 📉 Profit Trend over time
+- Sales Trend over time
+- Profit Trend over time
 - Time-based analysis using Month-Year hierarchy
 
 ---
 
-### 📊 Category & Performance Insights (Bottom Panel)
+### Category & Performance Insights (Bottom Panel)
 - Sales by Category 
 - Profit distribution across segments
 - Optional filters (Region, Category, Time)
